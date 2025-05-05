@@ -1,7 +1,7 @@
 
 
 [v1.2 - Infinite Youkai Gasha (capsule machine)]
-28726C18 000000FF
+28726C18 00000099
 
 [v1.2 - Infinite Stamina + Hide Gauge]
 28001F2E 00000070
